@@ -16,15 +16,15 @@ analysis:
   - item: Scikit-learn
   - item: NumPy
   - item: Pandas 
+  - item: Excel (Certified)
   - item: Matplotlib
   - item: SPSS
 
 tools:
-  - item: Excel (Certified)
   - item: Tableau 
   - item: Power BI
-  - item: Git & Github
-  - item: Wordpress
   - item: Google Analytics
   - item: Google Ads 
   - item: Google Tag Manager
+  - item: Wordpress
+  - item: Git & Github
