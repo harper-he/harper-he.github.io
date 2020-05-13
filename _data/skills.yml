@@ -12,12 +12,12 @@ databases:
   - item: MongoDB
 
 analysis: 
-- item: PySpark  
-- item: Scikit-learn
-- item: NumPy
-- item: Pandas 
-- item: Matplotlib
-- item: SPSS
+  - item: PySpark  
+  - item: Scikit-learn
+  - item: NumPy
+  - item: Pandas 
+  - item: Matplotlib
+  - item: SPSS
 
 tools:
   - item: Excel (Certified)
