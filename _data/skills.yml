@@ -3,20 +3,27 @@ languages:
   - item: SQL
   - item: R
   - item: HTML
-
-
-frameworks:
-  - item: Wordpress
-
-
-tools:
-  - item: Git & Github
+ 
+databases: 
+  - item: MySQL
+  - item: SQL Server
+  - item: SSIS
+  - item: SSAS
   - item: MongoDB
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+analysis: 
+- item: PySpark  
+- item: Scikit-learn
+- item: NumPy
+- item: Pandas 
+- item: Matplotlib
+- item: SPSS
+
+tools:
+  - item: Excel (Certified)
+  - item: Tableau 
+  - item: Power BI
+  - item: Git & Github
+  - item: Wordpress
+  - item: Google Analytics
+  - item: Google Ads 
