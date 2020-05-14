@@ -14,18 +14,16 @@
     - thing: Tokenization 
     - thing: Lemmatization
 
-- name: Halcyon Theme
-  url: https://bchiang7.github.io/halcyon-site/
-  code: https://github.com/bchiang7/halcyon-site
-  description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
+- name: Using Regular Expressions to find email addresses and phone numbers in non-standard forms
+  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Regular%20Expressions%20for%20Contact%20Finder
+  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Regular%20Expressions%20for%20Contact%20Finder
+  description: Use <strong>regular expressions</strong> to find email addresses or phone numbers in non-standard forms 
+  (aka <strong>obfuscation</strong> which makes it hard for spammers to <strong>automatically search text</strong> for email addresses and phone numbers) 
+  and return them in the standard forms. Observe what types of obfuscations work best to foil the spammers.
   used:
-    - thing: Gatsby
-    - thing: Sublime Text
-    - thing: Atom
-    - thing: VS Code
-    - thing: iTerm2
-    - thing: Hyper
-
+    - thing: Python
+    - thing: Regular Expressions
+    
 - name: Lonely Planet DBMS
   url: https://github.com/bchiang7/CS3200-Project
   code: https://github.com/bchiang7/CS3200-Project
