@@ -14,7 +14,7 @@
     - thing: Tokenization 
     - thing: Lemmatization
 
-- name: Using Regular Expressions to find email addresses and phone numbers in non-standard forms
+- name: Using Regular Expressions to find email addresses in non-standard forms
   url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Regular%20Expressions%20for%20Contact%20Finder
   code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Regular%20Expressions%20for%20Contact%20Finder
   description: Use <strong>regular expressions</strong> to find email addresses or phone numbers in non-standard forms 
@@ -24,17 +24,19 @@
     - thing: Python
     - thing: Regular Expressions
     
-- name: Lonely Planet DBMS
-  url: https://github.com/bchiang7/CS3200-Project
-  code: https://github.com/bchiang7/CS3200-Project
-  description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
+- name: Developing a context-free grammar to parse sentences
+  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Context-Free%20Grammars
+  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Context-Free%20Grammars
+  description: Develop the <strong>context-free grammar</strong> that can <strong>parse some sentences</strong>. 
+               List more different sentences that can be parsed by this grammar. 
+               Write a <strong>probabilistic context-free grammar</strong> assuming the given sentences are a mini-mini training corpus 
   used:
     - thing: Python
-    - thing: MySQL
-    - thing: Flask
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
+    - thing: NLTK
+    - thing: Context-free grammar
+    - thing: Probabilistic Context-free grammar
+    - thing: Stanford parser
+
 
 - name: myNEU Redesign
   url: https://bchiang7.github.io/Redesign-myNEU/
