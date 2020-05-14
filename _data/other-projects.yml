@@ -3,7 +3,8 @@
   code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Analysis%20of%20State%20of%20the%20Union%20Addresses%20dataset
   description: Analyze a collection of annual speeches delivered by the presidents of the United States, 
                from George Washington to Barack Obama. 
-               List top 50 words by frequency, the top 50 bigrams by frequencies, and the top 50 bigrams by their Mutual Information scores. 
+               List <strong>top 50 words by frequency<strong>, the <strong>top 50 bigrams by frequencies<strong>, 
+               and the <strong>top 50 bigrams by their Mutual Information scores<strong>. 
                Compare the differences between deffrent periods.
   used:
     - thing: NLTK
