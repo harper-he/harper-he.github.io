@@ -38,15 +38,19 @@
     - thing: Stanford parser
 
 
-- name: myNEU Redesign
-  url: https://bchiang7.github.io/Redesign-myNEU/
-  code: https://github.com/bchiang7/Redesign-myNEU
-  description: myNEU student portal web prototype for my information science senior project. I conducted a study that aimed to answer the question of how myNEU can be improved to provide students at Northeastern with a better user experience. Informed by usability metrics gathered from user tests, I redesigned and developed a web prototype of myNEU.
+- name: Sentiment Analysis on Amazon Product Reviews
+  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Amazon%20Product%20Reviews
+  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Amazon%20Product%20Reviews
+  description: Analyze the review contents from Amazon Product Data. 
+               <strong>Tokenization</strong>, <strong>stop word filtering</strong> were used for the data preprocessing/cleaning. 
+               For the classification task and the experiments, <strong>“bag-of-words”</strong>, <strong>Subjectivity Count features</strong> and <strong>Negation features</strong> were used to train and test a <strong>Naive Bayes classifier</strong>.
   used:
-    - thing: Jekyll
-    - thing: HTML
-    - thing: SCSS
-    - thing: JavaScript
+    - thing: Python
+    - thing: NLTK
+    - thing: bag-of-words
+    - thing: Naive Bayes
+    - thing: Subjectivity Count features
+    - thing: Negation features 
 
 - name: Crowd DJ
   url: https://github.com/crowddj/crowddj-react
