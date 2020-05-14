@@ -1,13 +1,16 @@
-- name: Surf Videos
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
-  description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
+- name: Analysis of State of the Union Addresses dataset
+  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Analysis%20of%20State%20of%20the%20Union%20Addresses%20dataset
+  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Analysis%20of%20State%20of%20the%20Union%20Addresses%20dataset
+  description: Analyze a collection of annual speeches delivered by the presidents of the United States, 
+               from George Washington to Barack Obama. 
+               List top 50 words by frequency, the top 50 bigrams by frequencies, and the top 50 bigrams by their Mutual Information scores. 
+               Compare the differences between deffrent periods.
   used:
-    - thing: JavaScript
-    - thing: React
-    - thing: React Router
-    - thing: Axios
-    - thing: YouTube API
+    - thing: NLTK
+    - thing: Bigram
+    - thing: Pointwise Mutual Information
+    - thing: Tokenization 
+    - thing: Lemmatization
 
 - name: Halcyon Theme
   url: https://bchiang7.github.io/halcyon-site/
