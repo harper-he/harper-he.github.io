@@ -72,10 +72,10 @@
   url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Trump%20Impeachment
   code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Trump%20Impeachment
   description: We have performed sentiment analysis on Reddit comments on Trump impeachment. 
-               We start by using a Python package named PRAW to scrape data, preprocessing and analyzing the word frequency. 
-               There are four major features that we use to train the Naive Bayes classifier, document feature, SL feature, negation feature, and new SL feature. 
-               In the experiment part, we used precision, recall and F-measure to evaluate the model performance. 
-               It was my first experience of  LaTeX Editor!🙌🏻
+               We start by using a Python package named PRAW to <strong>scrape data</strong>, preprocessing and analyzing the <strong>word frequency</strong>. 
+               There are four major features that we use to train the <strong>Naive Bayes classifier</strong>, <strong>document feature</strong>, SL feature, negation feature, and new SL feature. 
+               In the experiment part, we used <strong>precision</strong>, <strong>recall</strong> and <strong>F-measure</strong> to evaluate the model performance. 
+               It was my first experience of LaTeX Editor! 🙌 
   used:
     - thing: Python
     - thing: NLP
