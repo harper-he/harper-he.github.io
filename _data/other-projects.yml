@@ -18,8 +18,8 @@
   url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Regular%20Expressions%20for%20Contact%20Finder
   code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Regular%20Expressions%20for%20Contact%20Finder
   description: Use <strong>regular expressions</strong> to find email addresses or phone numbers in non-standard forms 
-  (aka <strong>obfuscation</strong> which makes it hard for spammers to <strong>automatically search text</strong> for email addresses and phone numbers) 
-  and return them in the standard forms. Observe what types of obfuscations work best to foil the spammers.
+               (aka <strong>obfuscation</strong> which makes it hard for spammers to <strong>automatically search text</strong> for email addresses and phone numbers) 
+               and return them in the standard forms. Observe what types of obfuscations work best to foil the spammers.
   used:
     - thing: Python
     - thing: Regular Expressions
