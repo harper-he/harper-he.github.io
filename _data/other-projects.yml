@@ -8,6 +8,7 @@
                Compare the differences between deffrent periods.
   used:
     - thing: Python
+    - thing: NLP
     - thing: NLTK
     - thing: Bigram
     - thing: Pointwise Mutual Information
@@ -22,6 +23,7 @@
                and return them in the standard forms. Observe what types of obfuscations work best to foil the spammers.
   used:
     - thing: Python
+    - thing: NLP
     - thing: Regular Expressions
     
 - name: Developing a context-free grammar to parse sentences
@@ -32,6 +34,7 @@
                Write a <strong>probabilistic context-free grammar</strong> assuming the given sentences are a mini-mini training corpus 
   used:
     - thing: Python
+    - thing: NLP
     - thing: NLTK
     - thing: Context-free grammar
     - thing: Probabilistic Context-free grammar
@@ -46,6 +49,7 @@
                For the classification task and the experiments, <strong>“bag-of-words”</strong>, <strong>Subjectivity Count features</strong> and <strong>Negation features</strong> were used to train and test a <strong>Naive Bayes classifier</strong>.
   used:
     - thing: Python
+    - thing: NLP
     - thing: NLTK
     - thing: bag-of-words
     - thing: Naive Bayes
@@ -64,19 +68,21 @@
     - thing: Firebase
     - thing: Spotify API
 
-- name: Weather Widget
-  url: http://quiet-dusk-89245.herokuapp.com/
-  code: https://github.com/bchiang7/DemoWebApp
-  description: A simple weather app I made at HubSpot's Fall 2016 Web App Workshop with Node.js, Express, and Heroku. I used the OpenWeatherMap API to get weather and forecast data, and then used the current city's coordinates to create a map background that reflected the current city using the Google Maps API.
-  img: weather
+- name: Sentiment Analysis on Trump Impeachment
+  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Trump%20Impeachment
+  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Trump%20Impeachment
+  description: We have performed sentiment analysis on Reddit comments on Trump impeachment. 
+               We start by using a Python package named PRAW to scrape data, preprocessing and analyzing the word frequency. 
+               There are four major features that we use to train the Naive Bayes classifier, document feature, SL feature, negation feature, and new SL feature. 
+               In the experiment part, we used precision, recall and F-measure to evaluate the model performance. 
+               It was my first experience of  LaTeX Editor!🙌🏻
   used:
-    - thing: JavaScript
-    - thing: CSS
-    - thing: Node.js
-    - thing: Express
-    - thing: Heroku
-    - thing: OpenWeatherMap API
-    - thing: Google Maps API
+    - thing: Python
+    - thing: NLP
+    - thing: NLTK
+    - thing: Data Scraping 
+    - thing: Naive Bayes
+    - thing: LaTeX
 
 # - name: ScreenTime 2.0
 #   url: https://play.google.com/store/apps/details?id=com.starry.management
