@@ -6,7 +6,7 @@
                We start by using a Python package named PRAW to <strong>scrape data</strong>, preprocessing and analyzing the <strong>word frequency</strong>. 
                There are four major features that we use to train the <strong>Naive Bayes classifier</strong>, <strong>document feature</strong>, SL feature, negation feature, and new SL feature. 
                In the experiment part, we used <strong>precision</strong>, <strong>recall</strong> and <strong>F-measure</strong> to evaluate the model performance. 
-               It was my first experience of LaTeX Editor! 🙌 
+               It was my first experience of <strong>LaTeX Editor</strong>! 🙌 
   used:
     - thing: Python
     - thing: NLP
