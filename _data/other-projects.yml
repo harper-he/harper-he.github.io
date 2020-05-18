@@ -87,6 +87,7 @@
     - thing: Subjectivity Count features
     - thing: Negation features 
 
+
 # - name: Crowd DJ
 #   url: https://github.com/crowddj/crowddj-react
 #   code: https://github.com/crowddj/crowddj-react
@@ -174,14 +175,17 @@
 #     - thing: JavaScript
 #     - thing: jQuery
 
-# - name: One Card For All
-#   url: http://onecardforall.org
-#   description: MullenLowe's 2016 holiday site built around an algorithm that generates a holiday greeting to each and every person on the planet. As new names appear, visitors can watch them fall, like snowflakes, onto a stylized world map. Users can also find their own name and see it as part of the world collective. Check out this short <a class="underline-link" href="http://us.mullenlowe.com/work/one-card-for-all/" target="_blank">video</a> describing the project.
-#   used:
-#     - thing: HTML
-#     - thing: SCSS
-#     - thing: JavaScript
-#     - thing: jQuery
+- name: Airline satisfaction classification
+  url: https://github.com/harper-he/R/tree/master/Airline%20satisfaction%20classification
+  description: We used R to perform data analysis and visualization for the airline industry customer satisfaction survey dataset. 
+               The analytic techniques used in this report are Support Vector Machine, Association Rules Mining and Linear Modelling.
+               The goal of this research is to examine the satisfaction of customers of different airlines and find the factors that affect it.
+  used:    
+    - thing: R
+    - thing: Support Vector Machine
+    - thing: Association Rules Mining
+    - thing: Linear Modelling
+
 
 # - name: JetBlue HumanKinda
 #   url: https://us.mullenlowe.com/work/humankinda/
