@@ -3,6 +3,15 @@ layout: default
 ---
 
 <div id="site">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166957890-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-166957890-1');
+</script>
   {% include switch.html %}  
   <!--{% include menu.html %}-->
   {% include intro.html %}
