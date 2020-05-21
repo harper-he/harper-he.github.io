@@ -3,13 +3,12 @@ languages:
   - item: SQL
   - item: R
   - item: HTML
-  - item: SAS
  
 databases: 
   - item: MySQL
   - item: SQL Server
   - item: SSIS
-  - item: SSAS
+  - item: SSRS
   - item: Access
   - item: MongoDB
 
