@@ -56,21 +56,6 @@
     - thing: Python
     - thing: NLP
     - thing: Regular Expressions
-    
-- name: Developing a context-free grammar to parse sentences
-  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Context-Free%20Grammars
-  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Context-Free%20Grammars
-  description: Develop the <strong>context-free grammar</strong> that can <strong>parse some sentences</strong>. 
-               List more different sentences that can be parsed by this grammar. 
-               Write a <strong>probabilistic context-free grammar</strong> assuming the given sentences are a mini-mini training corpus 
-  used:
-    - thing: Python
-    - thing: NLP
-    - thing: NLTK
-    - thing: Context-free grammar
-    - thing: Probabilistic Context-free grammar
-    - thing: Stanford parser
-
 
 - name: Sentiment Analysis on Amazon Product Reviews
   url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Amazon%20Product%20Reviews
@@ -86,6 +71,7 @@
     - thing: Naive Bayes
     - thing: Subjectivity Count features
     - thing: Negation features 
+    
 
 
 # - name: Crowd DJ
@@ -112,16 +98,18 @@
 #   - thing: Marionette
 #   - thing: Cordova
 
-# - name: Personal Website V2
-#   url: https://bchiang7.github.io/v2
-#   code: https://github.com/bchiang7/v2
-#   description: Second iteration of my personal website. Designed and developed with a conscious effort to avoid using any superfluous frameworks like Bootstrap.
-#   used:
-#     - thing: Jekyll
-#     - thing: Handlebars
-#     - thing: SCSS
-#     - thing: JavaScript
-#     - thing: Github Pages
+- name: Zappos Merchandising Analyst Internship Challenge
+  url: https://github.com/harper-he/Excel/tree/master/Merch%20Analyst%20Challenge%20Zappos
+  code: https://github.com/harper-he/Excel/tree/master/Merch%20Analyst%20Challenge%20Zappos
+  description: Calculate the Year-over-Year % Growth of Net Sales, Net Units, Net Margin % and Return Unit % by Product Type 
+               Provide analysis and business recommendation regarding further investment. 
+               Several key performance indicators (KPIs) were highlighted to support my recommendation.
+  used:
+    - thing: Excel
+    - thing: PowerPoint
+    - thing: VLOOKUP
+    - thing: SUMIFS
+    - thing: Pivot Table 
 
 # - name: React Resume
 #   url: https://bchiang7.github.io/react-profile/
@@ -185,6 +173,20 @@
     - thing: Support Vector Machine
     - thing: Association Rules Mining
     - thing: Linear Modelling
+    
+- name: Developing a context-free grammar to parse sentences
+  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Context-Free%20Grammars
+  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Context-Free%20Grammars
+  description: Develop the <strong>context-free grammar</strong> that can <strong>parse some sentences</strong>. 
+               List more different sentences that can be parsed by this grammar. 
+               Write a <strong>probabilistic context-free grammar</strong> assuming the given sentences are a mini-mini training corpus 
+  used:
+    - thing: Python
+    - thing: NLP
+    - thing: NLTK
+    - thing: Context-free grammar
+    - thing: Probabilistic Context-free grammar
+    - thing: Stanford parser
 
 
 # - name: JetBlue HumanKinda
