@@ -125,8 +125,8 @@
 - name: What Affects Life Expectancy
   url: https://github.com/harper-he/Excel/tree/master/Data%20Analysis%20and%20Decision%20Making
   description: This project aims to find which area should be given importance in order to improve the life expectancy of a country's population.
-  Descriptive analysis was conducted for each variable. 
-  Scatterplots, correlation analysis and multiple regression analysis were conducted to evaluate the relationship between the dependent variables and explanatory variables.
+               Descriptive analysis was conducted for each variable. 
+               Scatterplots, correlation analysis and multiple regression analysis were conducted to evaluate the relationship between the dependent variables and explanatory variables.
   used:
     - thing: Excel
     - thing: Pivot Tables/Charts
