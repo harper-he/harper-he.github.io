@@ -77,12 +77,12 @@
   code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Amazon%20Product%20Reviews
   description: Analyze the review contents from Amazon Product Data. 
                <strong>Tokenization</strong>, <strong>stop word filtering</strong> were used for the data preprocessing/cleaning. 
-               For the classification task and the experiments, <strong>“bag-of-words”</strong>, <strong>Subjectivity Count features</strong> and <strong>Negation features</strong> were used to train and test a <strong>Naive Bayes classifier</strong>.
+               For the classification task and the experiments, <strong>“Bag-of-words”</strong>, <strong>Subjectivity Count features</strong> and <strong>Negation features</strong> were used to train and test a <strong>Naive Bayes classifier</strong>.
   used:
     - thing: Python
     - thing: NLP
     - thing: NLTK
-    - thing: bag-of-words
+    - thing: Bag-of-words
     - thing: Naive Bayes
     - thing: Subjectivity Count features
     - thing: Negation features 
