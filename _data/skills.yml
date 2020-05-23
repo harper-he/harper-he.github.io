@@ -1,33 +1,31 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
   - item: Python
   - item: SQL
   - item: R
-
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
-
-tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
+  - item: HTML
+ 
+databases: 
+  - item: MySQL
+  - item: SQL Server
+  - item: SSIS
+  - item: SSRS
+  - item: Access
   - item: MongoDB
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+analysis: 
+  - item: PySpark  
+  - item: Scikit-learn
+  - item: NumPy
+  - item: Pandas 
+  - item: Excel (Certified)
+  - item: Matplotlib
+  - item: SPSS
+
+tools:
+  - item: Tableau 
+  - item: Power BI
+  - item: Google Analytics
+  - item: Google Ads 
+  - item: Google Tag Manager
+  - item: WordPress
+  - item: Git & Github

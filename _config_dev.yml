@@ -1,26 +1,20 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Harper He
+title: Harper He | Market Intelligence Analyst
+description: Business Analyst with marketing expertise, research skills, analytical thinking, business acumen, and computer proficiency
+url: https://harper-he.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: harperhe07@gmail.com
+cover: https://harper-he.github.io/img/cover.png
+logo: https://harper-he.github.io/img/emojis/technologist.png
+resume: https://harper-he.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: mailto:harperhe07@gmail.com
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/harper-he
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/harper-he
 
 # Build settings
 markdown: kramdown

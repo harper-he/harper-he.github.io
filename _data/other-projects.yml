@@ -1,73 +1,113 @@
-- name: Surf Videos
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
-  description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
-  used:
-    - thing: JavaScript
-    - thing: React
-    - thing: React Router
-    - thing: Axios
-    - thing: YouTube API
 
-- name: Halcyon Theme
-  url: https://bchiang7.github.io/halcyon-site/
-  code: https://github.com/bchiang7/halcyon-site
-  description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
-  used:
-    - thing: Gatsby
-    - thing: Sublime Text
-    - thing: Atom
-    - thing: VS Code
-    - thing: iTerm2
-    - thing: Hyper
-
-- name: Lonely Planet DBMS
-  url: https://github.com/bchiang7/CS3200-Project
-  code: https://github.com/bchiang7/CS3200-Project
-  description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
+- name: Sentiment Analysis on Trump Impeachment
+  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Trump%20Impeachment
+  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Trump%20Impeachment
+  description: We have performed sentiment analysis on Reddit comments on Trump impeachment. 
+               We start by using a Python package named PRAW to <strong>scrape data</strong>, preprocessing and analyzing the <strong>word frequency</strong>. 
+               There are four major features that we use to train the <strong>Naive Bayes classifier</strong>, <strong>document feature</strong>, SL feature, negation feature, and new SL feature. 
+               In the experiment part, we used <strong>precision</strong>, <strong>recall</strong> and <strong>F-measure</strong> to evaluate the model performance. 
+               It was my first experience of <strong>LaTeX Editor</strong>! 🙌 
   used:
     - thing: Python
-    - thing: MySQL
-    - thing: Flask
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
-
-- name: myNEU Redesign
-  url: https://bchiang7.github.io/Redesign-myNEU/
-  code: https://github.com/bchiang7/Redesign-myNEU
-  description: myNEU student portal web prototype for my information science senior project. I conducted a study that aimed to answer the question of how myNEU can be improved to provide students at Northeastern with a better user experience. Informed by usability metrics gathered from user tests, I redesigned and developed a web prototype of myNEU.
+    - thing: NLP
+    - thing: NLTK
+    - thing: Data Scraping 
+    - thing: Naive Bayes
+    - thing: LaTeX
+    
+- name: Predict the Success of Bank Telemarketing
+  url: https://github.com/harper-he/R/tree/master/Predict%20the%20Success%20of%20Bank%20Telemarketing
+  description: Use data mining algorithms in <strong>R</strong> to predict if a client will subscribe a term deposit. 
+               Our objective is to seek the most helpful attributes, so that bank can pay more attention and put more effort on customers who consist with those factors.
+               Five classification models (<strong>SVM, random forest, kNN, decision tree and Naive Bayes</strong>) are built on the training data.
+               <strong>Accuracy rate, precision, recall and f-measure</strong>, are calculated to measure the model.
   used:
-    - thing: Jekyll
-    - thing: HTML
-    - thing: SCSS
-    - thing: JavaScript
-
-- name: Crowd DJ
-  url: https://github.com/crowddj/crowddj-react
-  code: https://github.com/crowddj/crowddj-react
-  description:
-    A web app that allows people who are at a party or social gathering with a DJ to request songs via their smartphones. The web app allows people to see the currently playing song, request songs, upvote songs, and rate songs so the DJ can see how the crowd is feeling and act accordingly. In other words, Crowd DJ is essentially a crowdsourced music queue. <br>
-    <a class="small" href="http://projects.hackbeanpot.com/2017-projects.html">🏆 Won Best UI/UX Design at Hackbeanpot 2017 🏆</a>
+  - thing: R
+  - thing: SVM
+  - thing: Random forest
+  - thing: kNN
+  - thing: Decision tree
+  - thing: Naive Bayes    
+  
+- name: Zappos Merchandising Analyst Internship Challenge
+  url: https://github.com/harper-he/Excel/tree/master/Merch%20Analyst%20Challenge%20Zappos
+  code: https://github.com/harper-he/Excel/tree/master/Merch%20Analyst%20Challenge%20Zappos
+  description: Calculate the Year-over-Year % Growth of Net Sales, Net Units, Net Margin % and Return Unit % by Product Type 
+               Provide analysis and business recommendation regarding further investment. 
+               Several key performance indicators (KPIs) were highlighted to support my recommendation.
   used:
-    - thing: React
-    - thing: Sass
-    - thing: Firebase
-    - thing: Spotify API
-
-- name: Weather Widget
-  url: http://quiet-dusk-89245.herokuapp.com/
-  code: https://github.com/bchiang7/DemoWebApp
-  description: A simple weather app I made at HubSpot's Fall 2016 Web App Workshop with Node.js, Express, and Heroku. I used the OpenWeatherMap API to get weather and forecast data, and then used the current city's coordinates to create a map background that reflected the current city using the Google Maps API.
-  img: weather
+    - thing: Excel
+    - thing: PowerPoint
+    - thing: VLOOKUP
+    - thing: SUMIFS
+    - thing: Pivot Table 
+    
+- name: Analysis of State of the Union Addresses dataset
+  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Analysis%20of%20State%20of%20the%20Union%20Addresses%20dataset
+  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Analysis%20of%20State%20of%20the%20Union%20Addresses%20dataset
+  description: Analyze a collection of annual speeches delivered by the presidents of the United States, 
+               from George Washington to Barack Obama. 
+               List <strong>top 50 words by frequency</strong>, the top 50 <strong>bigrams by frequencies</strong>, 
+               and the top 50 bigrams by their <strong>Mutual Information scores</strong>. 
+               Compare the differences between deffrent periods.
   used:
-    - thing: JavaScript
-    - thing: CSS
-    - thing: Node.js
-    - thing: Express
-    - thing: Heroku
-    - thing: OpenWeatherMap API
-    - thing: Google Maps API
+    - thing: Python
+    - thing: NLP
+    - thing: NLTK
+    - thing: Bigram
+    - thing: Pointwise Mutual Information
+    - thing: Tokenization 
+    - thing: Lemmatization
+
+- name: Using Regular Expressions to find email addresses in non-standard forms
+  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Regular%20Expressions%20for%20Contact%20Finder
+  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Regular%20Expressions%20for%20Contact%20Finder
+  description: Use <strong>regular expressions</strong> to find email addresses or phone numbers in non-standard forms 
+               (aka <strong>obfuscation</strong> which makes it hard for spammers to <strong>automatically search text</strong> for email addresses and phone numbers) 
+               and return them in the standard forms. Observe what types of obfuscations work best to foil the spammers.
+  used:
+    - thing: Python
+    - thing: NLP
+    - thing: Regular Expressions
+
+- name: Sentiment Analysis on Amazon Product Reviews
+  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Amazon%20Product%20Reviews
+  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Amazon%20Product%20Reviews
+  description: Analyze the review contents from Amazon Product Data. 
+               <strong>Tokenization</strong>, <strong>stop word filtering</strong> were used for the data preprocessing/cleaning. 
+               For the classification task and the experiments, <strong>“Bag-of-words”</strong>, <strong>Subjectivity Count features</strong> and <strong>Negation features</strong> were used to train and test a <strong>Naive Bayes classifier</strong>.
+  used:
+    - thing: Python
+    - thing: NLP
+    - thing: NLTK
+    - thing: Bag-of-words
+    - thing: Naive Bayes
+    - thing: Subjectivity Count features
+    - thing: Negation features 
+    
+- name: Airline satisfaction classification
+  url: https://github.com/harper-he/R/tree/master/Airline%20satisfaction%20classification
+  description: We used R to perform data analysis and visualization for the airline industry customer satisfaction survey dataset. 
+               The analytic techniques used in this report are Support Vector Machine, Association Rules Mining and Linear Modelling.
+               The goal of this research is to examine the satisfaction of customers of different airlines and find the factors that affect it.
+  used:    
+    - thing: R
+    - thing: Support Vector Machine
+    - thing: Association Rules Mining
+    - thing: Linear Modelling
+
+# - name: Crowd DJ
+#   url: https://github.com/crowddj/crowddj-react
+#   code: https://github.com/crowddj/crowddj-react
+#   description:
+#     A web app that allows people who are at a party or social gathering with a DJ to request songs via their smartphones. The web app allows people to see the currently playing song, request songs, upvote songs, and rate songs so the DJ can see how the crowd is feeling and act accordingly. In other words, Crowd DJ is essentially a crowdsourced music queue. <br>
+#     <a class="small" href="http://projects.hackbeanpot.com/2017-projects.html">🏆 Won Best UI/UX Design at Hackbeanpot 2017 🏆</a>
+#   used:
+#     - thing: React
+#     - thing: Sass
+#     - thing: Firebase
+#     - thing: Spotify API
+
 
 # - name: ScreenTime 2.0
 #   url: https://play.google.com/store/apps/details?id=com.starry.management
@@ -80,83 +120,94 @@
 #   - thing: Marionette
 #   - thing: Cordova
 
-- name: Personal Website V2
-  url: https://bchiang7.github.io/v2
-  code: https://github.com/bchiang7/v2
-  description: Second iteration of my personal website. Designed and developed with a conscious effort to avoid using any superfluous frameworks like Bootstrap.
-  used:
-    - thing: Jekyll
-    - thing: Handlebars
-    - thing: SCSS
-    - thing: JavaScript
-    - thing: Github Pages
 
-- name: React Resume
-  url: https://bchiang7.github.io/react-profile/
-  code: https://github.com/bchiang7/react-profile/
-  description: An online version of my 2016 resume I made for fun. I was interested in learning React.js, so I found this <a class="underline-link" href="https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.1439cdewq">simple tutorial</a> and it kind of spun into this weekend project. I probably didn't need to use React at all, but hey, at least I learned a few things!
+    
+- name: What Affects Life Expectancy
+  url: https://github.com/harper-he/Excel/tree/master/Data%20Analysis%20and%20Decision%20Making
+  description: This project aims to find which area should be given importance in order to improve the life expectancy of a country's population.
+               Descriptive analysis was conducted for each variable. 
+               Scatterplots, correlation analysis and multiple regression analysis were conducted to evaluate the relationship between the dependent variables and explanatory variables.
   used:
-    - thing: JavaScript
-    - thing: React
-    - thing: CSS
+    - thing: Excel
+    - thing: Pivot Tables/Charts
+    - thing: Regression Analysis
+    - thing: Coefficients
+    - thing: P-values
 
-- name: CourseSource
-  url: http://webdevspring2016-chiangbrittany.rhcloud.com/project/client/#/login
-  code: https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project
-  description: A web application built on the MEAN (MongoDB, Express, Angular, Node) stack for my web development course at Northeastern. I created this web app with the intention of providing Northeastern Students a better experience browsing the courses offered at Northeastern.
-  used:
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
-    - thing: Node.js
-    - thing: Angular
-    - thing: Express
-    - thing: MongoDB
+# - name: React Resume
+#   url: https://bchiang7.github.io/react-profile/
+#   code: https://github.com/bchiang7/react-profile/
+#   description: An online version of my 2016 resume I made for fun. I was interested in learning React.js, so I found this <a class="underline-link" href="https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.1439cdewq">simple tutorial</a> and it kind of spun into this weekend project. I probably didn't need to use React at all, but hey, at least I learned a few things!
+#   used:
+#     - thing: JavaScript
+#     - thing: React
+#     - thing: CSS
 
-- name: NU Women in Tech
-  url: http://nuwit.ccs.neu.edu/
-  code: https://github.com/nuwit/website
-  description: Complete overhaul and redesign of NU Women in Tech's club website using Jekyll, built while serving as web chair on the e-board.
-  used:
-    - thing: Jekyll
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
-    - thing: Bootstrap
+# - name: CourseSource
+#   url: http://webdevspring2016-chiangbrittany.rhcloud.com/project/client/#/login
+#   code: https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project
+#   description: A web application built on the MEAN (MongoDB, Express, Angular, Node) stack for my web development course at Northeastern. I created this web app with the intention of providing Northeastern Students a better experience browsing the courses offered at Northeastern.
+#   used:
+#     - thing: HTML
+#     - thing: CSS
+#     - thing: JavaScript
+#     - thing: Node.js
+#     - thing: Angular
+#     - thing: Express
+#     - thing: MongoDB
 
-- name: Fontipsums
-  url: https://bchiang7.github.io/fontipsums
-  code: https://github.com/bchiang7/fontipsums
-  description: As someone who has an eye for typography, I wanted a way to visually see different font combinations together. I whipped up this simple website to display some of my favorite pairings combined with some fun lorem ipsum variations I found on the web.
-  used:
-    - thing: HTML
-    - thing: SCSS
+# - name: NU Women in Tech
+#   url: http://nuwit.ccs.neu.edu/
+#   code: https://github.com/nuwit/website
+#   description: Complete overhaul and redesign of NU Women in Tech's club website using Jekyll, built while serving as web chair on the e-board.
+#   used:
+#     - thing: Jekyll
+#     - thing: HTML
+#     - thing: CSS
+#     - thing: JavaScript
+#     - thing: Bootstrap
 
-- name: Personal Website V1
-  url: https://bchiang7.github.io/v1
-  code: https://github.com/bchiang7/website_2015/
-  description: My first portfolio website I designed and built in 2014. I learned quite a bit about HTML, CSS, and SEO. Since then, I think my web development and design skills have improved immensely.
-  used:
-    - thing: HTML
-    - thing: CSS
-    - thing: Bootstrap
-    - thing: JavaScript
-    - thing: jQuery
+# - name: Fontipsums
+#   url: https://bchiang7.github.io/fontipsums
+#   code: https://github.com/bchiang7/fontipsums
+#   description: As someone who has an eye for typography, I wanted a way to visually see different font combinations together. I whipped up this simple website to display some of my favorite pairings combined with some fun lorem ipsum variations I found on the web.
+#   used:
+#     - thing: HTML
+#     - thing: SCSS
 
-- name: One Card For All
-  url: http://onecardforall.org
-  description: MullenLowe's 2016 holiday site built around an algorithm that generates a holiday greeting to each and every person on the planet. As new names appear, visitors can watch them fall, like snowflakes, onto a stylized world map. Users can also find their own name and see it as part of the world collective. Check out this short <a class="underline-link" href="http://us.mullenlowe.com/work/one-card-for-all/" target="_blank">video</a> describing the project.
-  used:
-    - thing: HTML
-    - thing: SCSS
-    - thing: JavaScript
-    - thing: jQuery
+# - name: Personal Website V1
+#   url: https://bchiang7.github.io/v1
+#   code: https://github.com/bchiang7/website_2015/
+#   description: My first portfolio website I designed and built in 2014. I learned quite a bit about HTML, CSS, and SEO. Since then, I think my web development and design skills have improved immensely.
+#   used:
+#     - thing: HTML
+#     - thing: CSS
+#     - thing: Bootstrap
+#     - thing: JavaScript
+#     - thing: jQuery
 
-- name: JetBlue HumanKinda
-  url: https://us.mullenlowe.com/work/humankinda/
-  description: Tumblr site complementing JetBlue's HumanKinda campaign and documentary. The site houses the video documentary, many graphics created by Mullen for the campaign, and an interactive quiz to determine how "HumanKinda" you are. Learn more about this project <a class="underline-link" href="http://us.mullenlowe.com/work/humankinda/" target="_blank">here</a>.
+
+    
+- name: Developing a context-free grammar to parse sentences
+  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Context-Free%20Grammars
+  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Context-Free%20Grammars
+  description: Develop the <strong>context-free grammar</strong> that can <strong>parse some sentences</strong>. 
+               List more different sentences that can be parsed by this grammar. 
+               Write a <strong>probabilistic context-free grammar</strong> assuming the given sentences are a mini-mini training corpus 
   used:
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
-    - thing: jQuery
+    - thing: Python
+    - thing: NLP
+    - thing: NLTK
+    - thing: Context-free grammar
+    - thing: Probabilistic Context-free grammar
+    - thing: Stanford parser
+
+
+# - name: JetBlue HumanKinda
+#   url: https://us.mullenlowe.com/work/humankinda/
+#   description: Tumblr site complementing JetBlue's HumanKinda campaign and documentary. The site houses the video documentary, many graphics created by Mullen for the campaign, and an interactive quiz to determine how "HumanKinda" you are. Learn more about this project <a class="underline-link" href="http://us.mullenlowe.com/work/humankinda/" target="_blank">here</a>.
+#   used:
+#     - thing: HTML
+#     - thing: CSS
+#     - thing: JavaScript
+#     - thing: jQuery
