@@ -32,9 +32,9 @@
 - name: Zappos Merchandising Analyst Internship Challenge
   url: https://github.com/harper-he/Excel/tree/master/Merch%20Analyst%20Challenge%20Zappos
   code: https://github.com/harper-he/Excel/tree/master/Merch%20Analyst%20Challenge%20Zappos
-  description: Calculate the Year-over-Year % Growth of Net Sales, Net Units, Net Margin % and Return Unit % by Product Type 
+  description: Calculate the <strong>Year-over-Year % Growth</strong> of <strong>Net Sales</strong>, Net Units, Net Margin % and Return Unit % by Product Type 
                Provide analysis and business recommendation regarding further investment. 
-               Several key performance indicators (KPIs) were highlighted to support my recommendation.
+               Several <strong>key performance indicators</strong> (KPIs) were highlighted to support my recommendation.
   used:
     - thing: Excel
     - thing: PowerPoint
@@ -44,7 +44,7 @@
 
 - name: Design and Implementation of Retail Data Warehouse
   url: https://github.com/harper-he/SQL/tree/master/Data%20Warehousing/Retail%20Data%20Warehouse
-  description:  A data warehouse project of Retail Industry Company. We created staging and data warehouse area using MS SQL server. Performed ETL using SSIS, created reports using SSAS and SSRS
+  description:  A data warehouse project of <strong>Retail Industry</strong> Company. We created staging and data warehouse area using <strong>MS SQL server</strong>. Performed <strong>ETL</strong> using <strong>SSIS</strong>, created reports using <strong>SSAS</strong> and <strong>SSRS</strong>
   used:
     - thing: MS SQL server
     - thing: SSIS
