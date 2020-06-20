@@ -41,6 +41,15 @@
     - thing: VLOOKUP
     - thing: SUMIFS
     - thing: Pivot Table 
+
+- name: Design and Implementation of Retail Data Warehouse
+  url: https://github.com/harper-he/SQL/tree/master/Data%20Warehousing/Retail%20Data%20Warehouse
+  description:  A data warehouse project of Retail Industry Company. We created staging and data warehouse area using MS SQL server. Performed ETL using SSIS, created reports using SSAS and SSRS
+  used:
+    - thing: MS SQL server
+    - thing: SSIS
+    - thing: SSAS 
+    - thing: SSRS
     
 - name: Analysis of State of the Union Addresses dataset
   url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Analysis%20of%20State%20of%20the%20Union%20Addresses%20dataset
@@ -134,14 +143,7 @@
     - thing: Coefficients
     - thing: P-values
 
-# - name: React Resume
-#   url: https://bchiang7.github.io/react-profile/
-#   code: https://github.com/bchiang7/react-profile/
-#   description: An online version of my 2016 resume I made for fun. I was interested in learning React.js, so I found this <a class="underline-link" href="https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.1439cdewq">simple tutorial</a> and it kind of spun into this weekend project. I probably didn't need to use React at all, but hey, at least I learned a few things!
-#   used:
-#     - thing: JavaScript
-#     - thing: React
-#     - thing: CSS
+
 
 # - name: CourseSource
 #   url: http://webdevspring2016-chiangbrittany.rhcloud.com/project/client/#/login
