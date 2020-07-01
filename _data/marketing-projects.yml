@@ -1,16 +1,16 @@
 
 - name: POSCO-China 2014 Corporate Social Responsibility Report
   url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Trump%20Impeachment
-  description: Authored an annual CSR report by gathering data, analysing issues and breaking them down into their component parts.
+  description: Authored an annual <strong>CSR report</strong> by <strong>gathering data</strong>, <strong>analysing issues</strong> and breaking them down into their component parts.
                The CSR report provided clear direction on strategy, delivery and performance. 
-               It was ranked as number 2 of Industrials, Manufacturing & Metals sector, number 6 of foreign-funded enterprises and 32 among top 100 enterprises by Chinese Academy of Social Sciences.             
-  used:
-    - thing: CSR 
-    - thing: Performance Indicators
-    - thing: Stakeholders
-    - thing: Effective Communication
-    - thing: Strategy
-    - thing: Risks and Opportunities 
+               It was ranked as <strong>number 2</strong> of Industrials, Manufacturing & Metals sector, number 6 of foreign-funded enterprises and 32 among top 100 enterprises by Chinese Academy of Social Sciences.             
+#   used:
+#     - thing: CSR 
+#     - thing: Performance Indicators
+#     - thing: Stakeholders
+#     - thing: Effective Communication
+#     - thing: Strategy
+#     - thing: Risks and Opportunities 
     
 # - name: Predict the Success of Bank Telemarketing
 #   url: https://github.com/harper-he/R/tree/master/Predict%20the%20Success%20of%20Bank%20Telemarketing
