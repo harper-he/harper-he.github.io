@@ -1,147 +1,144 @@
 
-- name: Sentiment Analysis on Trump Impeachment
+- name: POSCO-China 2014 Corporate Social Responsibility Report
   url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Trump%20Impeachment
-  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Trump%20Impeachment
-  description: We have performed sentiment analysis on Reddit comments on Trump impeachment. 
-               We start by using a Python package named PRAW to <strong>scrape data</strong>, preprocessing and analyzing the <strong>word frequency</strong>. 
-               There are four major features that we use to train the <strong>Naive Bayes classifier</strong>, <strong>document feature</strong>, SL feature, negation feature, and new SL feature. 
-               In the experiment part, we used <strong>precision</strong>, <strong>recall</strong> and <strong>F-measure</strong> to evaluate the model performance. 
-               It was my first experience of <strong>LaTeX Editor</strong>! 🙌 
+  description: Authored an annual CSR report by gathering data, analysing issues and breaking them down into their component parts.
+               The CSR report provided clear direction on strategy, delivery and performance. 
+               It was ranked as number 2 of Industrials, Manufacturing & Metals sector, number 6 of foreign-funded enterprises and 32 among top 100 enterprises by Chinese Academy of Social Sciences.             
   used:
-    - thing: Python
-    - thing: NLP
-    - thing: NLTK
-    - thing: Data Scraping 
-    - thing: Naive Bayes
-    - thing: LaTeX
+    - thing: CSR 
+    - thing: Performance Indicators
+    - thing: Stakeholders
+    - thing: Effective Communication
+    - thing: Strategy
+    - thing: Risks and Opportunities 
     
-- name: Predict the Success of Bank Telemarketing
-  url: https://github.com/harper-he/R/tree/master/Predict%20the%20Success%20of%20Bank%20Telemarketing
-  description: Use data mining algorithms in <strong>R</strong> to predict if a client will subscribe a term deposit. 
-               Our objective is to seek the most helpful attributes, so that bank can pay more attention and put more effort on customers who consist with those factors.
-               Five classification models (<strong>SVM, random forest, kNN, decision tree and Naive Bayes</strong>) are built on the training data.
-               <strong>Accuracy rate, precision, recall and f-measure</strong>, are calculated to measure the model.
-  used:
-  - thing: R
-  - thing: SVM
-  - thing: Random forest
-  - thing: kNN
-  - thing: Decision tree
-  - thing: Naive Bayes    
+# - name: Predict the Success of Bank Telemarketing
+#   url: https://github.com/harper-he/R/tree/master/Predict%20the%20Success%20of%20Bank%20Telemarketing
+#   description: Use data mining algorithms in <strong>R</strong> to predict if a client will subscribe a term deposit. 
+#                Our objective is to seek the most helpful attributes, so that bank can pay more attention and put more effort on customers who consist with those factors.
+#                Five classification models (<strong>SVM, random forest, kNN, decision tree and Naive Bayes</strong>) are built on the training data.
+#                <strong>Accuracy rate, precision, recall and f-measure</strong>, are calculated to measure the model.
+#   used:
+#   - thing: R
+#   - thing: SVM
+#   - thing: Random forest
+#   - thing: kNN
+#   - thing: Decision tree
+#   - thing: Naive Bayes    
   
-- name: Zappos Merchandising Analyst Internship Challenge
-  url: https://github.com/harper-he/Excel/tree/master/Merch%20Analyst%20Challenge%20Zappos
-  code: https://github.com/harper-he/Excel/tree/master/Merch%20Analyst%20Challenge%20Zappos
-  description: Calculate the <strong>Year-over-Year % Growth</strong> of <strong>Net Sales</strong>, Net Units, Net Margin % and Return Unit % by Product Type 
-               Provide analysis and business recommendation regarding further investment. 
-               Several <strong>key performance indicators</strong> (KPIs) were highlighted to support my recommendation.
-  used:
-    - thing: Excel
-    - thing: PowerPoint
-    - thing: VLOOKUP
-    - thing: SUMIFS
-    - thing: Pivot Table 
-
-- name: Design and Implementation of Retail Data Warehouse
-  url: https://github.com/harper-he/SQL/tree/master/Data%20Warehousing/Retail%20Data%20Warehouse
-  description:  A data warehouse project of <strong>Retail Industry</strong> Company. We created staging and data warehouse area using <strong>MS SQL server</strong>. Performed <strong>ETL</strong> using <strong>SSIS</strong>, created reports using <strong>SSAS</strong> and <strong>SSRS</strong>
-  used:
-    - thing: MS SQL server
-    - thing: SSIS
-    - thing: SSAS 
-    - thing: SSRS
-    
-- name: Analysis of State of the Union Addresses dataset
-  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Analysis%20of%20State%20of%20the%20Union%20Addresses%20dataset
-  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Analysis%20of%20State%20of%20the%20Union%20Addresses%20dataset
-  description: Analyze a collection of annual speeches delivered by the presidents of the United States, 
-               from George Washington to Barack Obama. 
-               List <strong>top 50 words by frequency</strong>, the top 50 <strong>bigrams by frequencies</strong>, 
-               and the top 50 bigrams by their <strong>Mutual Information scores</strong>. 
-               Compare the differences between deffrent periods.
-  used:
-    - thing: Python
-    - thing: NLP
-    - thing: NLTK
-    - thing: Bigram
-    - thing: Pointwise Mutual Information
-    - thing: Tokenization 
-    - thing: Lemmatization
-
-- name: Using Regular Expressions to find email addresses in non-standard forms
-  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Regular%20Expressions%20for%20Contact%20Finder
-  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Regular%20Expressions%20for%20Contact%20Finder
-  description: Use <strong>regular expressions</strong> to find email addresses or phone numbers in non-standard forms 
-               (aka <strong>obfuscation</strong> which makes it hard for spammers to <strong>automatically search text</strong> for email addresses and phone numbers) 
-               and return them in the standard forms. Observe what types of obfuscations work best to foil the spammers.
-  used:
-    - thing: Python
-    - thing: NLP
-    - thing: Regular Expressions
-
-- name: Sentiment Analysis on Amazon Product Reviews
-  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Amazon%20Product%20Reviews
-  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Amazon%20Product%20Reviews
-  description: Analyze the review contents from Amazon Product Data. 
-               <strong>Tokenization</strong>, <strong>stop word filtering</strong> were used for the data preprocessing/cleaning. 
-               For the classification task and the experiments, <strong>“Bag-of-words”</strong>, <strong>Subjectivity Count features</strong> and <strong>Negation features</strong> were used to train and test a <strong>Naive Bayes classifier</strong>.
-  used:
-    - thing: Python
-    - thing: NLP
-    - thing: NLTK
-    - thing: Bag-of-words
-    - thing: Naive Bayes
-    - thing: Subjectivity Count features
-    - thing: Negation features 
-    
-- name: Airline satisfaction classification
-  url: https://github.com/harper-he/R/tree/master/Airline%20satisfaction%20classification
-  description: We used R to perform data analysis and visualization for the airline industry customer satisfaction survey dataset. 
-               The analytic techniques used in this report are Support Vector Machine, Association Rules Mining and Linear Modelling.
-               The goal of this research is to examine the satisfaction of customers of different airlines and find the factors that affect it.
-  used:    
-    - thing: R
-    - thing: Support Vector Machine
-    - thing: Association Rules Mining
-    - thing: Linear Modelling
-
-# - name: Crowd DJ
-#   url: https://github.com/crowddj/crowddj-react
-#   code: https://github.com/crowddj/crowddj-react
-#   description:
-#     A web app that allows people who are at a party or social gathering with a DJ to request songs via their smartphones. The web app allows people to see the currently playing song, request songs, upvote songs, and rate songs so the DJ can see how the crowd is feeling and act accordingly. In other words, Crowd DJ is essentially a crowdsourced music queue. <br>
-#     <a class="small" href="http://projects.hackbeanpot.com/2017-projects.html">🏆 Won Best UI/UX Design at Hackbeanpot 2017 🏆</a>
+# - name: Zappos Merchandising Analyst Internship Challenge
+#   url: https://github.com/harper-he/Excel/tree/master/Merch%20Analyst%20Challenge%20Zappos
+#   code: https://github.com/harper-he/Excel/tree/master/Merch%20Analyst%20Challenge%20Zappos
+#   description: Calculate the <strong>Year-over-Year % Growth</strong> of <strong>Net Sales</strong>, Net Units, Net Margin % and Return Unit % by Product Type 
+#                Provide analysis and business recommendation regarding further investment. 
+#                Several <strong>key performance indicators</strong> (KPIs) were highlighted to support my recommendation.
 #   used:
-#     - thing: React
-#     - thing: Sass
-#     - thing: Firebase
-#     - thing: Spotify API
+#     - thing: Excel
+#     - thing: PowerPoint
+#     - thing: VLOOKUP
+#     - thing: SUMIFS
+#     - thing: Pivot Table 
 
-
-# - name: ScreenTime 2.0
-#   url: https://play.google.com/store/apps/details?id=com.starry.management
-#   description: App-blocking feature on <a class="underline-link" href="https://starry.com/station" target="_blank">Starry Station</a> that provides functionality for users to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their mobile phones. Learn more about ScreenTime 2.0 on <a class="underline-link" href="https://www.producthunt.com/tech/screentime-for-starry-station" target="_blank">Product Hunt</a> and the <a class="underline-link" href="https://blog.starry.com/whats-new-screentime-just-got-better-for-parents/" target="_blank">Starry Blog</a>.
+# - name: Design and Implementation of Retail Data Warehouse
+#   url: https://github.com/harper-he/SQL/tree/master/Data%20Warehousing/Retail%20Data%20Warehouse
+#   description:  A data warehouse project of <strong>Retail Industry</strong> Company. We created staging and data warehouse area using <strong>MS SQL server</strong>. Performed <strong>ETL</strong> using <strong>SSIS</strong>, created reports using <strong>SSAS</strong> and <strong>SSRS</strong>
 #   used:
-#   - thing: JavaScript
-#   - thing: CSS
-#   - thing: Handlebars
-#   - thing: Backbone
-#   - thing: Marionette
-#   - thing: Cordova
+#     - thing: MS SQL server
+#     - thing: SSIS
+#     - thing: SSAS 
+#     - thing: SSRS
+    
+# - name: Analysis of State of the Union Addresses dataset
+#   url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Analysis%20of%20State%20of%20the%20Union%20Addresses%20dataset
+#   code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Analysis%20of%20State%20of%20the%20Union%20Addresses%20dataset
+#   description: Analyze a collection of annual speeches delivered by the presidents of the United States, 
+#                from George Washington to Barack Obama. 
+#                List <strong>top 50 words by frequency</strong>, the top 50 <strong>bigrams by frequencies</strong>, 
+#                and the top 50 bigrams by their <strong>Mutual Information scores</strong>. 
+#                Compare the differences between deffrent periods.
+#   used:
+#     - thing: Python
+#     - thing: NLP
+#     - thing: NLTK
+#     - thing: Bigram
+#     - thing: Pointwise Mutual Information
+#     - thing: Tokenization 
+#     - thing: Lemmatization
+
+# - name: Using Regular Expressions to find email addresses in non-standard forms
+#   url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Regular%20Expressions%20for%20Contact%20Finder
+#   code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Regular%20Expressions%20for%20Contact%20Finder
+#   description: Use <strong>regular expressions</strong> to find email addresses or phone numbers in non-standard forms 
+#                (aka <strong>obfuscation</strong> which makes it hard for spammers to <strong>automatically search text</strong> for email addresses and phone numbers) 
+#                and return them in the standard forms. Observe what types of obfuscations work best to foil the spammers.
+#   used:
+#     - thing: Python
+#     - thing: NLP
+#     - thing: Regular Expressions
+
+# - name: Sentiment Analysis on Amazon Product Reviews
+#   url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Amazon%20Product%20Reviews
+#   code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Sentiment%20Analysis%20on%20Amazon%20Product%20Reviews
+#   description: Analyze the review contents from Amazon Product Data. 
+#                <strong>Tokenization</strong>, <strong>stop word filtering</strong> were used for the data preprocessing/cleaning. 
+#                For the classification task and the experiments, <strong>“Bag-of-words”</strong>, <strong>Subjectivity Count features</strong> and <strong>Negation features</strong> were used to train and test a <strong>Naive Bayes classifier</strong>.
+#   used:
+#     - thing: Python
+#     - thing: NLP
+#     - thing: NLTK
+#     - thing: Bag-of-words
+#     - thing: Naive Bayes
+#     - thing: Subjectivity Count features
+#     - thing: Negation features 
+    
+# - name: Airline satisfaction classification
+#   url: https://github.com/harper-he/R/tree/master/Airline%20satisfaction%20classification
+#   description: We used R to perform data analysis and visualization for the airline industry customer satisfaction survey dataset. 
+#                The analytic techniques used in this report are Support Vector Machine, Association Rules Mining and Linear Modelling.
+#                The goal of this research is to examine the satisfaction of customers of different airlines and find the factors that affect it.
+#   used:    
+#     - thing: R
+#     - thing: Support Vector Machine
+#     - thing: Association Rules Mining
+#     - thing: Linear Modelling
+
+# # - name: Crowd DJ
+# #   url: https://github.com/crowddj/crowddj-react
+# #   code: https://github.com/crowddj/crowddj-react
+# #   description:
+# #     A web app that allows people who are at a party or social gathering with a DJ to request songs via their smartphones. The web app allows people to see the currently playing song, request songs, upvote songs, and rate songs so the DJ can see how the crowd is feeling and act accordingly. In other words, Crowd DJ is essentially a crowdsourced music queue. <br>
+# #     <a class="small" href="http://projects.hackbeanpot.com/2017-projects.html">🏆 Won Best UI/UX Design at Hackbeanpot 2017 🏆</a>
+# #   used:
+# #     - thing: React
+# #     - thing: Sass
+# #     - thing: Firebase
+# #     - thing: Spotify API
+
+
+# # - name: ScreenTime 2.0
+# #   url: https://play.google.com/store/apps/details?id=com.starry.management
+# #   description: App-blocking feature on <a class="underline-link" href="https://starry.com/station" target="_blank">Starry Station</a> that provides functionality for users to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their mobile phones. Learn more about ScreenTime 2.0 on <a class="underline-link" href="https://www.producthunt.com/tech/screentime-for-starry-station" target="_blank">Product Hunt</a> and the <a class="underline-link" href="https://blog.starry.com/whats-new-screentime-just-got-better-for-parents/" target="_blank">Starry Blog</a>.
+# #   used:
+# #   - thing: JavaScript
+# #   - thing: CSS
+# #   - thing: Handlebars
+# #   - thing: Backbone
+# #   - thing: Marionette
+# #   - thing: Cordova
 
 
     
-- name: What Affects Life Expectancy
-  url: https://github.com/harper-he/Excel/tree/master/Data%20Analysis%20and%20Decision%20Making
-  description: This project aims to find which area should be given importance in order to improve the life expectancy of a country's population.
-               Descriptive analysis was conducted for each variable. 
-               Scatterplots, correlation analysis and multiple regression analysis were conducted to evaluate the relationship between the dependent variables and explanatory variables.
-  used:
-    - thing: Excel
-    - thing: Pivot Tables/Charts
-    - thing: Regression Analysis
-    - thing: Coefficients
-    - thing: P-values
+# - name: What Affects Life Expectancy
+#   url: https://github.com/harper-he/Excel/tree/master/Data%20Analysis%20and%20Decision%20Making
+#   description: This project aims to find which area should be given importance in order to improve the life expectancy of a country's population.
+#                Descriptive analysis was conducted for each variable. 
+#                Scatterplots, correlation analysis and multiple regression analysis were conducted to evaluate the relationship between the dependent variables and explanatory variables.
+#   used:
+#     - thing: Excel
+#     - thing: Pivot Tables/Charts
+#     - thing: Regression Analysis
+#     - thing: Coefficients
+#     - thing: P-values
 
 
 
@@ -190,19 +187,19 @@
 
 
     
-- name: Developing a context-free grammar to parse sentences
-  url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Context-Free%20Grammars
-  code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Context-Free%20Grammars
-  description: Develop the <strong>context-free grammar</strong> that can <strong>parse some sentences</strong>. 
-               List more different sentences that can be parsed by this grammar. 
-               Write a <strong>probabilistic context-free grammar</strong> assuming the given sentences are a mini-mini training corpus 
-  used:
-    - thing: Python
-    - thing: NLP
-    - thing: NLTK
-    - thing: Context-free grammar
-    - thing: Probabilistic Context-free grammar
-    - thing: Stanford parser
+# - name: Developing a context-free grammar to parse sentences
+#   url: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Context-Free%20Grammars
+#   code: https://github.com/harper-he/Python/tree/master/Natural%20Language%20Processing/Context-Free%20Grammars
+#   description: Develop the <strong>context-free grammar</strong> that can <strong>parse some sentences</strong>. 
+#                List more different sentences that can be parsed by this grammar. 
+#                Write a <strong>probabilistic context-free grammar</strong> assuming the given sentences are a mini-mini training corpus 
+#   used:
+#     - thing: Python
+#     - thing: NLP
+#     - thing: NLTK
+#     - thing: Context-free grammar
+#     - thing: Probabilistic Context-free grammar
+#     - thing: Stanford parser
 
 
 # - name: JetBlue HumanKinda
