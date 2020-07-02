@@ -13,12 +13,12 @@
 #     - thing: Strategy
 #     - thing: Risks and Opportunities 
     
-# - name: Predict the Success of Bank Telemarketing
-#   url: https://github.com/harper-he/R/tree/master/Predict%20the%20Success%20of%20Bank%20Telemarketing
-#   description: Use data mining algorithms in <strong>R</strong> to predict if a client will subscribe a term deposit. 
-#                Our objective is to seek the most helpful attributes, so that bank can pay more attention and put more effort on customers who consist with those factors.
-#                Five classification models (<strong>SVM, random forest, kNN, decision tree and Naive Bayes</strong>) are built on the training data.
-#                <strong>Accuracy rate, precision, recall and f-measure</strong>, are calculated to measure the model.
+- name: 2019 IBM Systems Technology Forum
+  url: https://www.ibm.com/news/cn/zh/2019/07/19/20190719.html
+  description: </br>
+               A total number of 538 attendants, along with numerous guests and technology experts, industry specialists and business leaders 
+               discussed in depth about how the <strong>agile</strong> and secure architecture of hybrid multi-cloud help businesses embark on their <strong>hybrid multi-cloud</strong> and <strong>AI</strong> journeys. 
+  
 #   used:
 #   - thing: R
 #   - thing: SVM
