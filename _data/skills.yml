@@ -7,14 +7,15 @@ languages:
 databases: 
   - item: MySQL
   - item: SQL Server
-  - item: SSIS
-  - item: SSRS
+  - item: Google BigQuery
+#   - item: SSIS
+#   - item: SSRS
   - item: Access
-  - item: MongoDB
+#   - item: MongoDB
 
 analysis: 
-  - item: PySpark  
-  - item: Scikit-learn
+#   - item: PySpark  
+#   - item: Scikit-learn
   - item: NumPy
   - item: Pandas 
   - item: Excel (Certified)
@@ -23,9 +24,10 @@ analysis:
 
 tools:
   - item: Tableau 
+  - item: Looker
   - item: Power BI
   - item: Google Analytics
-  - item: Google Ads 
-  - item: Google Tag Manager
+#   - item: Google Ads 
+#   - item: Google Tag Manager
   - item: WordPress
   - item: Git & Github
