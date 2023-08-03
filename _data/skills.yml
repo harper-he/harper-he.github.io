@@ -5,7 +5,8 @@ data:
   - item: Google BigQuery
 
 analysis:
-  - item: Python (NumPy, Pandas, Scikit-learn, PySpark)
+  - item: Python (NumPy, Pandas
+  - item: , Scikit-learn, PySpark)
   - item: Excel (Certified)
   - item: SPSS
   - item: Google Analytics
