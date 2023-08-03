@@ -4,22 +4,14 @@
     <!-- <p>I’ve picked up quite a few skills during the course of my three co-ops, and aim to improve these skills everyday. Here are a few of the technologies that I have experience with:</p> -->
     <div class="skillz">
       <div class="skillz__category">
-        <div class="skillz__category__label">Languages</div>
+        <div class="skillz__category__label">Data</div>
         <ul>
-          {% for language in site.data.skills.languages %}
+          {% for language in site.data.skills.data %}
           <li class="skillz__category__item">{{language.item}}</li>
           {% endfor %}
         </ul>
       </div>
-      <div class="skillz__category">
-        <div class="skillz__category__label">Databases</div>
-        <ul>
-          {% for database in site.data.skills.databases %}
-          <li class="skillz__category__item">{{database.item}}</li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="skillz__category">
+            <div class="skillz__category">
         <div class="skillz__category__label">analysis</div>
         <ul>
           {% for thing in site.data.skills.analysis %}
@@ -28,7 +20,15 @@
         </ul>
       </div>
       <div class="skillz__category">
-        <div class="skillz__category__label">Tools</div>
+        <div class="skillz__category__label">Visualizations</div>
+        <ul>
+          {% for database in site.data.skills.visualization %}
+          <li class="skillz__category__item">{{database.item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="skillz__category">
+        <div class="skillz__category__label">Nice to have</div>
         <ul>
           {% for tool in site.data.skills.tools %}
           <li class="skillz__category__item">{{tool.item}}</li>
