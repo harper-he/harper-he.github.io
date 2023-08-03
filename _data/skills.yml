@@ -7,6 +7,7 @@ languages:
 databases: 
   - item: MySQL
   - item: SQL Server
+  - item: Segment
   - item: Google BigQuery
 #   - item: SSIS
 #   - item: SSRS
@@ -21,12 +22,13 @@ analysis:
   - item: Excel (Certified)
   - item: Matplotlib
   - item: SPSS
+  - item: Google Analytics
 
 tools:
   - item: Tableau 
   - item: Looker
   - item: Power BI
-  - item: Google Analytics
+  - item: Amplitude
 #   - item: Google Ads 
 #   - item: Google Tag Manager
   - item: WordPress
