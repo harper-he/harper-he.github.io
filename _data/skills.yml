@@ -1,35 +1,62 @@
-languages:
-  - item: Python
-#   - item: SQL
-  - item: R
-  - item: HTML
- 
-databases: 
-  - item: MySQL
-  - item: SQL Server
+data:
+  - item: SQL
+  - item: GraphQL
   - item: Segment
   - item: Google BigQuery
-#   - item: SSIS
-#   - item: SSRS
-  - item: Access
-#   - item: MongoDB
 
-analysis: 
-#   - item: PySpark  
-#   - item: Scikit-learn
-  - item: NumPy
-  - item: Pandas 
+analysis:
+  - item: Python (NumPy, Pandas, Scikit-learn, PySpark)
   - item: Excel (Certified)
-  - item: Matplotlib
   - item: SPSS
   - item: Google Analytics
-
-tools:
+  
+visualization:
   - item: Tableau 
   - item: Looker
   - item: Power BI
   - item: Amplitude
-#   - item: Google Ads 
-#   - item: Google Tag Manager
+  - item: Python (Matplotlib)
+
+nice to have:
   - item: WordPress
   - item: Git & Github
+  - item: HTML
+  - item: Access
+  - item: SPSS
+
+# languages:
+#   - item: Python (NumPy, Pandas, Scikit-learn, PySpark)
+# #   - item: SQL
+#   - item: R
+#   - item: HTML
+ 
+# databases: 
+#   - item: MySQL
+#   - item: GraphQL
+# #  - item: SQL Server
+#   - item: Segment
+#   - item: Google BigQuery
+# #   - item: SSIS
+# #   - item: SSRS
+# #  - item: Access
+# #   - item: MongoDB
+
+# analysis: 
+# #   - item: PySpark  
+# #   - item: Scikit-learn
+# #  - item: NumPy
+# #  - item: Pandas 
+#   - item: Excel (Certified)
+#   - item: Matplotlib
+#   - item: SPSS
+#   - item: Google Analytics
+
+# tools:
+#   - item: Tableau 
+#   - item: Looker
+#   - item: Power BI
+#   - item: Amplitude
+# #   - item: Google Ads 
+# #   - item: Google Tag Manager
+#   - item: WordPress
+#   - item: Git & Github
